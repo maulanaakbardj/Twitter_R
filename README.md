@@ -3,3 +3,7 @@ Twitter Sentiment Analysis is the process of determining the emotion behind a se
 
 # Top 20 words in #Depression tweets
 ![Top 20 words in #Depression tweets](https://user-images.githubusercontent.com/67249292/124798135-3a7b5780-df7d-11eb-9c31-3e4ca26e1d4f.png)
+
+# TWITTER SENTIMENT ANALYSIS DEPRESSION
+![TWITTER SENTIMENT ANALYSIS DEPRESSION](https://user-images.githubusercontent.com/67249292/124798250-58e15300-df7d-11eb-9068-474d22548ea0.png)
+
