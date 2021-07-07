@@ -7,3 +7,5 @@ Twitter Sentiment Analysis is the process of determining the emotion behind a se
 # TWITTER SENTIMENT ANALYSIS DEPRESSION
 ![TWITTER SENTIMENT ANALYSIS DEPRESSION](https://user-images.githubusercontent.com/67249292/124798250-58e15300-df7d-11eb-9068-474d22548ea0.png)
 
+# Tweet sentiment histogram
+![tweet sentiment histogram](https://user-images.githubusercontent.com/67249292/124798515-9f36b200-df7d-11eb-963f-8c6138506d45.png)
